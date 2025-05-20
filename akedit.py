@@ -4,7 +4,7 @@ import tkinter as tk
 
 # initialize tkinter window
 root = tk.Tk()
-root.title("Text Editor")
+root.title("akedit")
 
 # write to the file
 def writeToFile(entry_contents):
